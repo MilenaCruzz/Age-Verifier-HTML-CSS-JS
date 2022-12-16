@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(34, 53, 112);
+    margin: 1% 2% 2% 27.5%;
+}
+
+.container {
+    text-align: center;
+    margin: 2%;
+    background-color: aliceblue;
+    width: 600px;
+    height: 550px;
+    border-radius: 50px;
+    
+}
+
+#button{
+    background-color: rgb(34, 53, 112);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    padding: 1em;
+}
+
+#button:hover {
+    background-color: rgb(182, 207, 228);
+    transition: 0.5s;
+}
+
+
+#photo{
+    width: 250px;
+    border-radius: 100%;
+    margin-top: 2em;
+    margin-right: 300px;
+    margin-left: 180px;    
+    
+}
+
